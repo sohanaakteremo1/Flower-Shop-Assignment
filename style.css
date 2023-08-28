@@ -298,3 +298,43 @@ font-weight: 700;
 .main-sec9-heading{
     margin-bottom: 5px;
 }
+/* footer */
+footer{
+    background-color: #111010;
+    padding: 80px 200px;
+    color: aliceblue;
+    text-align: center;
+}
+span{
+    color: #E55473;
+
+font-size: 48px;
+
+font-weight: 800;
+
+}
+.shop{
+    color: #FFF;
+margin-bottom: 20px;
+font-size: 48px;
+
+font-weight: 800;
+
+}
+.footer-text{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 20px;
+
+}
+.shop-com{
+    color: rgba(255, 255, 255, 0.40);
+
+    text-align: center;
+font-size: 16px;
+
+font-weight: 400;
+
+}
