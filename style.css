@@ -235,21 +235,66 @@ background: #E55473;
     margin-bottom: 20px;
 }
 /* main-section7 */
-.main-section7{
+.main-section8{
     background: #FFF;
     margin: 0px 20px 80px 230px;
-    
-   
-    
-   
-
  
 }
-.main-section7-img{
+.main-section8-img{
     padding: 10px 10px 10px 10px;
     width: 20%;
    
    justify-content: space-around;
    align-items: center;
   
+}
+/* main-section-9 */
+.main-section9{
+    padding: 100px 200px ;
+    margin: 50px 180px 50px 250px;
+    border: 0;
+ background-image: url("flower asset/Rectangle\ 9.png");
+ background-repeat: no-repeat;
+ 
+    
+}
+
+
+.main-section9-text{
+    text-align: center;
+
+}
+.main-section9-btn{
+    display: flex;
+    align-items: center;
+}
+input[type=text]{
+    border: 0;
+    border-radius: 5px;
+background: #FFF;
+padding: 10px 20px;
+width: 100%;
+    
+}
+
+
+button{ 
+padding: 7px 15px;
+margin-left: 60px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+border: 0;
+font-size: 20px;
+
+font-weight: 700;
+
+
+}
+.main-section9-in{
+    margin-top: 35px;
+   
+}
+.main-sec9-heading{
+    margin-bottom: 5px;
 }
