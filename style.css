@@ -234,3 +234,22 @@ background: #E55473;
     font-weight: 400;
     margin-bottom: 20px;
 }
+/* main-section7 */
+.main-section7{
+    background: #FFF;
+    margin: 0px 20px 80px 230px;
+    
+   
+    
+   
+
+ 
+}
+.main-section7-img{
+    padding: 10px 10px 10px 10px;
+    width: 20%;
+   
+   justify-content: space-around;
+   align-items: center;
+  
+}
