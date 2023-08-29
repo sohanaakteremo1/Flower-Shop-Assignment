@@ -338,3 +338,57 @@ font-size: 16px;
 font-weight: 400;
 
 }
+
+/* .bonus-section */
+.bonus-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightcyan;
+    width: 100%;
+    margin: 0px 20px 50px 0px;
+    
+    
+}
+.bonus-img{
+    width: 25%;
+    padding-left: 70px;
+}
+.bonush-hea{
+    margin-bottom: 5px;
+}
+.bo-p{
+    text-align: center;
+    margin-bottom: 4px;
+}
+.bonush-info{
+    padding: 30px 90px 60px 30px;
+    
+    border: 1px solid;
+  text-align: center;
+  box-shadow: 3px 3px 10px #888888;
+  gap: 20px;
+  border: 0;
+  margin: 5px;
+}
+/* main-section2 */
+.main-section-bonus{
+    text-align: center;
+    margin: 100px 60px 40px 40px;
+
+}
+.featured-tittle-bonus{
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 20px;
+
+}
+.featured-text-bonus{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
